@@ -1,9 +1,5 @@
-# Typescript Protractor Project Example
-This project is an example of what a Typescript Protractor project could look like. I couldn't find very fleshed out examples so decided to put up what I have written for work, in case it helps anyone. All sensitive information (eg logins and URLs) have been removed/replaced with dummy data.
-
-Feel free to modify and use it for your own purposes with no restrictions.
-
-Based on Protractor team's [example Typescript project](https://github.com/angular/protractor/tree/master/exampleTypescript), Angular-CLI generated project, and [qualityshepherd's example page object project](https://github.com/qualityshepherd/protractor-example).
+# "Oasisdex" with Chrome extension "MetaMask"
+This project is an example of how to User Chrome extension MetaMask with Protractor
 
 ## Project Description:
 * Project setup with Protractor version 5.1.2.
