@@ -1,5 +1,5 @@
 # "Oasisdex" with Chrome extension "MetaMask"
-This project is an example of how to User Chrome extension MetaMask with Protractor
+This project is an example of how to Use Chrome extension MetaMask with Protractor
 
 ## Project Description:
 * Project setup with Protractor version 5.1.2.
